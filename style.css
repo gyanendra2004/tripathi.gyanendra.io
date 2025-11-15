@@ -32,6 +32,7 @@ main{padding:1rem 0 3rem}
     }
 
     .form-group {
+        margin-top: 15px; /* Adds space between form groups */
         margin-bottom: 15px; /* Adds space between form groups */
         /* You might want to use display: flex and align-items for label/input alignment within the group */
     }
